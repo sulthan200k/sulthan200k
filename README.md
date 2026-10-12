@@ -4,10 +4,10 @@
   ============================================================
   SETUP
   1. Create a PUBLIC repository named exactly after your GitHub username
-     (e.g. github.com/YOUR_USERNAME/YOUR_USERNAME).
+     (github.com/sulthan200k/sulthan200k).
   2. Add this file as README.md in that repository.
-  3. Find and replace every "YOUR_USERNAME" with your real GitHub username.
-  4. Replace the placeholder URLs marked "REPLACE" below.
+  3. Replace the placeholder URLs marked "REPLACE" below
+     (LinkedIn, Portfolio, and the chatbot repository).
 -->
 
 <div align="center">
@@ -23,8 +23,8 @@
 
 <br>
 
-<!-- Profile views badge. REPLACE YOUR_USERNAME -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+views&color=0d1117&style=flat-square&labelColor=161b22" alt="Profile views" />
+<!-- Profile views badge -->
+<img src="https://komarev.com/ghpvc/?username=sulthan200k&label=Profile+views&color=0d1117&style=flat-square&labelColor=161b22" alt="Profile views" />
 
 </div>
 
@@ -46,9 +46,8 @@ My interests include **full-stack development**, **UI/UX design**, **artificial 
 
 <div align="center">
 
-<!-- REPLACE YOUR_USERNAME with your GitHub username -->
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-YOUR__USERNAME-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="GitHub" />
+<a href="https://github.com/sulthan200k">
+  <img src="https://img.shields.io/badge/GitHub-sulthan200k-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="GitHub" />
 </a>
 &nbsp;
 <!-- REPLACE the URL below with your LinkedIn profile link -->
@@ -90,11 +89,11 @@ My interests include **full-stack development**, **UI/UX design**, **artificial 
 
 <br>
 
-**Currently Exploring (AI)**
+**Currently Exploring**
 
 <img src="https://img.shields.io/badge/LangChain-Exploring-0d1117?style=flat-square&logo=langchain&logoColor=white&labelColor=161b22" alt="LangChain" />
 <img src="https://img.shields.io/badge/Large_Language_Models-Exploring-0d1117?style=flat-square&labelColor=161b22&color=58a6ff" alt="Large Language Models" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-Learning-0d1117?style=flat-square&labelColor=161b22&color=58a6ff" alt="Prompt Engineering" />
+<img src="https://img.shields.io/badge/UI%2FUX-Learning-0d1117?style=flat-square&labelColor=161b22&color=58a6ff" alt="UI/UX" />
 
 </div>
 
@@ -114,7 +113,7 @@ I'm developing an academic chatbot designed to help students find and understand
 - **Accessibility:** designing for a wider range of users
 
 <!-- REPLACE the URL below with your chatbot repository link once it's on GitHub -->
-**Repository:** [github.com/YOUR_USERNAME/your-chatbot-repo](https://github.com/YOUR_USERNAME/your-chatbot-repo)
+**Repository:** [github.com/sulthan200k/your-chatbot-repo](https://github.com/sulthan200k/your-chatbot-repo)
 
 ---
 
@@ -123,18 +122,17 @@ I'm developing an academic chatbot designed to help students find and understand
 <div align="center">
 
 <!--
-  REPLACE YOUR_USERNAME in every URL in this section.
   These cards use public community-hosted services. If a card shows an error or
   fails to load, it is usually temporary rate-limiting; refreshing later fixes it.
   Add &include_all_commits=true to the stats URL if you want to count all commits.
 -->
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sulthan200k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulthan200k&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=sulthan200k&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
 
 </div>
 
@@ -158,8 +156,7 @@ I'm developing an academic chatbot designed to help students find and understand
 
 <div align="center">
 
-<!-- REPLACE YOUR_USERNAME -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true" alt="Contribution activity graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sulthan200k&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true" alt="Contribution activity graph" width="100%" />
 
 </div>
 
