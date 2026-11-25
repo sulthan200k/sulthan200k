@@ -7,7 +7,7 @@
      (github.com/sulthan200k/sulthan200k).
   2. Add this file as README.md in that repository.
   3. Replace the placeholder URLs marked "REPLACE" below
-     (Portfolio, and the chatbot repository).
+     (the chatbot repository).
 -->
 
 <div align="center">
@@ -53,11 +53,17 @@ My interests include **full-stack development**, **UI/UX design**, **artificial 
 <a href="https://www.linkedin.com/in/shahay-sulthan-6123b734a">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22" alt="LinkedIn" />
 </a>
-&nbsp;
-<!-- REPLACE the URL below with your portfolio link (or remove this badge until you have one) -->
-<a href="https://your-portfolio-url.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=161b22" alt="Portfolio" />
-</a>
+
+
+</div>
+
+---
+
+## Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" alt="Python, C, C++" />
 
 </div>
 
