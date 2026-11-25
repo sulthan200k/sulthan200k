@@ -7,7 +7,7 @@
      (github.com/sulthan200k/sulthan200k).
   2. Add this file as README.md in that repository.
   3. Replace the placeholder URLs marked "REPLACE" below
-     (LinkedIn, Portfolio, and the chatbot repository).
+     (Portfolio, and the chatbot repository).
 -->
 
 <div align="center">
@@ -50,8 +50,7 @@ My interests include **full-stack development**, **UI/UX design**, **artificial 
   <img src="https://img.shields.io/badge/GitHub-sulthan200k-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="GitHub" />
 </a>
 &nbsp;
-<!-- REPLACE the URL below with your LinkedIn profile link -->
-<a href="https://www.linkedin.com/in/your-linkedin-id/">
+<a href="https://www.linkedin.com/in/shahay-sulthan-6123b734a">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22" alt="LinkedIn" />
 </a>
 &nbsp;
@@ -59,41 +58,6 @@ My interests include **full-stack development**, **UI/UX design**, **artificial 
 <a href="https://your-portfolio-url.com">
   <img src="https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=161b22" alt="Portfolio" />
 </a>
-
-</div>
-
----
-
-## Tech Stack
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="260"><b>Programming</b></td>
-    <td align="center" width="260"><b>Web Development</b></td>
-    <td align="center" width="260"><b>Tools</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" alt="Python, C, C++" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS, JavaScript" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-**Currently Exploring**
-
-<img src="https://img.shields.io/badge/LangChain-Exploring-0d1117?style=flat-square&logo=langchain&logoColor=white&labelColor=161b22" alt="LangChain" />
-<img src="https://img.shields.io/badge/Large_Language_Models-Exploring-0d1117?style=flat-square&labelColor=161b22&color=58a6ff" alt="Large Language Models" />
-<img src="https://img.shields.io/badge/UI%2FUX-Learning-0d1117?style=flat-square&labelColor=161b22&color=58a6ff" alt="UI/UX" />
 
 </div>
 
